@@ -40,7 +40,7 @@
 - [Aaron Rock Menezes](https://github.com/aaronrockmenezes)
 - [Chirag sharma] (https://github.com/chiragksharma)]
 - [Brian Patterson] (https://github.com/brianjpatterson)
-- [Carl Shone] (https://github.com/carlts93)
+- [Carl Shone](https://github.com/carlts93)
 - [Snehashish Ghosh](https://github.com/snehashish-ghosh98)
 - [Kimberly Rodriguez](https://github.com/kimmiethecoder)
 - [Divya Arora](https://github.com/divyaarora1808)
